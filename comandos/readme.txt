@@ -15,4 +15,20 @@ git add .
 git commit -m 'Mensagem'
 git remote add origin URL_DO_GIT
 
-Fazer um teste
+Para fazer o push para o githup eu preciso usar o 
+gitbash pode ser pelo vs code
+
+para conseguir fazer isso pelo windwos eu preciso
+usar esse comando
+
+$ eval $(ssh-agent)
+
+e depois 
+
+$ ssh-add 'caminho do seu ssh'
+
+no caso o meu fica assim -> $ ssh-add ~/.ssh/adonissantos_rsa
+
+git push só funciona pelo bash
+
+

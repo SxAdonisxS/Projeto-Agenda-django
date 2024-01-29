@@ -14,6 +14,10 @@ git init
 git add .
 git commit -m 'Mensagem'
 git remote add origin URL_DO_GIT
+git push é para enviar os arquivos para o git hup
+
+git push main origin - u o -u serve para adicionar o main e origin como padrão
+ai os proximos push você só precisa falar git push
 
 Para fazer o push para o githup eu preciso usar o 
 gitbash pode ser pelo vs code
